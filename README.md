@@ -182,5 +182,3 @@ This project aims to make education smarter, fairer, and more supportive for eve
 
 ---
 
-Would you like me to make this README even more *GitHub-polished* — e.g., with **badges (Python, Scikit-learn, MIT-WPU)**, and a **“How to Run”** section (setup commands and notebook instructions)?
-That would make it look like a complete open-source project page.
